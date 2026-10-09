@@ -347,8 +347,6 @@ PropertyLens-Residential-Real-Estate-Analytics/
 git clone https://github.com/sh29sarathe/PropertyLens-Residential-Real-Estate-Analytics.git
 ```
 
-Replace `YOUR_USERNAME` with the GitHub username that owns the repository.
-
 ### 2. Install the dependencies
 
 ```bash
